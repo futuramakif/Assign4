@@ -1,0 +1,28 @@
+package Assign4;
+
+import BasicIO.*;
+
+public class Knapsack
+{
+  private ASCIIDataFile file;
+  private BasicForm form;
+  
+  public Knapsack()
+  {
+    file = new ASCIIDataFile();
+    form = new BasicForm();
+    String prod;
+    int price;
+    
+    
+  }
+  
+  private void 
+  
+    
+  public static void main ( String[] args ) 
+  {
+    Knapsack s = new Knapsack(); 
+  }
+}
+

@@ -1,0 +1,14 @@
+package Assign4;
+
+public class Node
+{      
+    public printJob   item;
+    public Node next;
+    
+    
+    Node( printJob p, Node n ) 
+    {
+        item = p;
+        next = n;
+    }
+} 

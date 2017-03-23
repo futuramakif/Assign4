@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Knapsack.java" package="Assign4" timestamp="22-Mar-2017 23:17:25">
+        <select from="601" to="601"/>
+        <scroll column="168" row="0"/>
+      </file>
+      <file name="List.java" package="Assign4" timestamp="22-Mar-2017 15:33:32">
+        <select from="601" to="601"/>
+        <scroll column="168" row="0"/>
+      </file>
+      <file name="Product.java" package="Assign4" timestamp="22-Mar-2017 21:58:28">
+        <select from="601" to="601"/>
+        <scroll column="168" row="0"/>
+      </file>
+      <file name="Node.java" package="Assign4" timestamp="22-Mar-2017 22:18:24">
+        <select from="601" to="601"/>
+        <scroll column="168" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
